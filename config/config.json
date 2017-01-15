@@ -1,0 +1,8 @@
+{
+    "FULL_SCREEN" : 0,
+    "HD" : 1,
+    "COMPUTE_VISIBILITY" : 1,
+    "DEBUG" : 0,
+    "PRINT_LAG" : 1,
+    "DRAW_BLACK_FILLING" : 1
+}
